@@ -10,7 +10,11 @@ namespace PIS_1
     {
         public void Function()
         {
-            
+        }
+        public void Function2()
+        {
+            Console.WriteLine("Juran je kralj!!");
+
         }
     }
 }
