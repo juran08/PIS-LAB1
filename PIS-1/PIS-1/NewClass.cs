@@ -8,5 +8,9 @@ namespace PIS_1
 {
     class NewClass
     {
+        public void Function2()
+        {
+            Console.WriteLine("Juran je kralj!!");
+        }
     }
 }
